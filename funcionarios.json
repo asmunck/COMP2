@@ -1,0 +1,25 @@
+{
+  "Skinner": {
+    "cargo": "Gerente",
+    "idade": 62,
+    "salario": 45000,
+    "telefone": "123-456-789"
+  },
+  "Mulder": {
+    "cargo": "Engenheiro de Machine Learning",
+    "idade": 40,
+    "salario": 30000,
+    "telefone": "987-654-321"
+  },
+  "Scully": {
+    "cargo": "Cientista de Dados",
+    "idade": 33,
+    "salario": 25000,
+    "telefone": "555-555-555"
+  },
+  "Frohike": {
+    "cargo": "programador",
+    "idade": 66,
+    "salario": 21000
+  }
+}
